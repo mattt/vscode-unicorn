@@ -3,6 +3,18 @@
 A [Visual Studio Code][code] extension that adds a status bar entry
 showing Unicode data for selected characters.
 
+## Demo
+
+Watch the status bar entry in the bottom right of the window
+update with the Unicode name and code point of the current character
+as the cursor moves through the document.
+
+![Unicorn Demo](https://user-images.githubusercontent.com/7659/97903637-31523080-1cf4-11eb-81b7-7bca53c348f3.gif)
+
+Clicking on the status bar entry opens a panel with additional information. 
+
+![Unicorn Character Information Panel](https://user-images.githubusercontent.com/7659/97903679-44fd9700-1cf4-11eb-88e5-ce8e24e4f702.png)
+
 > This extension is currently in active development.
 > See the [roadmap](#roadmap) for a list of current and planned features.
 
